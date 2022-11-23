@@ -138,7 +138,7 @@ footer:
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
+    - label: "heeung"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/heeung"
     #- label: "GitLab"

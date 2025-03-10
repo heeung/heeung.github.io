@@ -6,6 +6,7 @@ module.exports = {
   links: {
     github: "https://github.com/heeung",
     email: "mailto:skdi6031@gmail.com",
+    linkedIn: "https://www.linkedin.com/in/heeung",
     link: "https://heeung.github.io/",
   },
   useAbout: true,

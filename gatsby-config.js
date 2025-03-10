@@ -2,7 +2,7 @@ const blogConfig = require("./blog-config")
 const { title, description, author, siteUrl } = blogConfig
 
 module.exports = {
-  pathPrefix: "/heeung-blog",
+  pathPrefix: "/gatsby-starter-hoodie",
   siteMetadata: {
     title,
     description,

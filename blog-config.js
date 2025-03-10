@@ -2,11 +2,11 @@ module.exports = {
   title: "heeung",
   description: "Android Developer",
   author: "heeung",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  siteUrl: "https://heeung.github.io/",
   links: {
     github: "https://github.com/heeung",
-    email: "mailto:devhudi@gmail.com",
-    link: "https://hudi.blog",
+    email: "mailto:skdi6031@gmail.com",
+    link: "https://heeung.github.io/",
   },
   useAbout: true,
   // See https://giscus.app/

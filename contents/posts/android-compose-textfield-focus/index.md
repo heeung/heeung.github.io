@@ -44,18 +44,16 @@ val focusManager = LocalFocusManager.current
 
 ```kotlin
 @Composable
-fun MainContent(
+fun MainContent() {
+    Scaffold(
+        modifier = Modifier
+            .fillMaxSize()
+            .addFocusCleaner(focusManager)
+    ) {
 
-) {
-		Scaffold(
-		        modifier = Modifier
-		            .fillMaxSize()
-		            .addFocusCleaner(focusManager)
-		) {
-
-				...
-		
-		}
+        ...
+    
+    }
 }
 ```
 

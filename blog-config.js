@@ -11,14 +11,14 @@ module.exports = {
   useAbout: true,
   // See https://giscus.app/
   giscus: {
-    repo: "devHudi/gatsby-starter-hoodie",
-    repoId: "MDEwOlJlcG9zaXRvcnkzNjk4NjMzNTg=",
+    repo: "heeung/heeung.github.io",
+    repoId: "R_kgDOOF62sA=",
     category: "Comments",
-    categoryId: "DIC_kwDOFguqvs4ChwGy",
+    categoryId: "DIC_kwDOOF62sM4CnxQs",
     mapping: "pathname",
     strict: "0",
     reactionsEnabled: "1",
     inputPosition: "bottom",
-    lang: "en",
+    lang: "ko",
   },
 }

@@ -1,33 +1,3 @@
----
-title: "This is about page ✋"
----
-
-## English Guide
-
-Hello! This section is dedicated to introducing your blog. Here, you can showcase various information to your visitors, such as a blog introduction, personal profile, resume, portfolio, and more.
-
-### Writing Guide
-
-To edit this page, modify the `/contents/about/index.md` file. You can write it in the same way as any other post. The path to this file cannot be changed.
-
-The Markdown document for the About page only contains a single frontmatter called `title`. The `title` frontmatter will be displayed as the title at the top of the About page.
-
-### Disabling the About Page
-
-```json
-module.exports = {
-
-  // ...
-
-  useAbout: false, // 👈
-
-  // ...
-
-}
-```
-
-You can disable the About page by setting the `useAbout` value to false in the `blog-config.js` file. If disabled, the tab in the blog header will be hidden, and visitors will not be able to access this page via the `/about` URL.
-
 ## 한국어 가이드
 
 안녕하세요. 이 곳은 블로그를 소개하기 위한 공간입니다. 블로그 또는 자신에 대한 소개부터 이력서, 포트폴리오 등 다양한 정보를 이곳에서 방문자들에게 보여줄 수 있습니다.

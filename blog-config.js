@@ -8,10 +8,14 @@ module.exports = {
     linkedIn: "https://www.linkedin.com/in/heeung",
   },
   useAbout: true,
+  utterance: {
+    repo: "heeung/heeung.github.io",
+    type: "pathname"
+  },
   // See https://giscus.app/
   giscus: {
     repo: "heeung/heeung.github.io",
-    repoId: "R_kgDOOF62sA=",
+    repoId: "R_kgDOOF62sA",
     category: "Comments",
     categoryId: "DIC_kwDOOF62sM4CnxQs",
     mapping: "pathname",

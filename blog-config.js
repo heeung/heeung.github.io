@@ -1,13 +1,11 @@
 module.exports = {
-  title: "heeung",
-  description: "Android Developer",
+  title: "(heeung)->blog",
+  description: "기록하는 곳",
   author: "heeung",
   siteUrl: "https://heeung.github.io/",
   links: {
     github: "https://github.com/heeung",
-    email: "mailto:skdi6031@gmail.com",
     linkedIn: "https://www.linkedin.com/in/heeung",
-    link: "https://heeung.github.io/",
   },
   useAbout: true,
   // See https://giscus.app/

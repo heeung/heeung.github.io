@@ -5,3 +5,8 @@
  */
 
 // You can delete this file if you're not using it
+import React from "react";
+
+export const onRenderBody = ({ setHtmlAttributes }) => {
+  setHtmlAttributes({ lang: "ko" });
+};

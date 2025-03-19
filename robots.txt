@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://heeung.github.io/sitemap-index.xml
-Host: https://heeung.github.io
+Host: https://heeung.githup.io

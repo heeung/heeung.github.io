@@ -2,7 +2,7 @@ module.exports = {
   title: "(heeung)->blog",
   description: "기록하는 곳",
   author: "heeung",
-  siteUrl: "https://heeung.github.io/",
+  siteUrl: "https://heeung.github.io",
   links: {
     github: "https://github.com/heeung",
     linkedIn: "https://www.linkedin.com/in/heeung",

@@ -15,7 +15,6 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host:'https://heeung.github.io/',
         sitemap: 'https://heeung.github.io/sitemap-index.xml',
         policy:[{ userAgent: '*', allow: '/'}],
       },
